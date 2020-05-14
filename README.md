@@ -1,2 +1,5 @@
 # hello-world
-this is for my SDEV140 class
+
+### Hi my name is Muhammad Tomasiewicz
+
+** this is for my SDEV140 class
